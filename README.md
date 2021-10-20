@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshvardhantomar
-- 👀 I’m interested in learning new technologies, Anime and Football.
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in learning New Technologies, Anime and Football.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m currently not looking to collaborate on any project.
 - 📫 You can reach me on Instagram --> @tomar.harshvardhan
 
